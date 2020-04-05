@@ -1,0 +1,24 @@
+ASP.NET MVC 5 Fundamentals
+
+SECTION 1
+Topics:
+MVC 5 - Stands for Model, View and Controller which is a type of software development design pattern which is used to decouple the user-interface, data and application logic which helps to achive separation of concerns. Ships as part of the ASP.NET 4.x framework.
+Controllers - the aplication logic portion of the MVC pattern
+Models - the data portion of the MVC pattern
+Views - the user-interface portion of the MVC pattern
+Entity Framework - a data access Framework used to create and test data in Visual Studio. It consists of a NuGet package named Entity Framework.
+Feature additon and enabling - features include display forms, authorization, session / profile management, and other functionallity
+Addition of 3rd party libraries - 3rd party librarys add additional features to the ASP.NET MVC framework which can handle javascript processing and other items.
+
+Minimum class tools include the free version of Visual Studio labeled the Community Edition. Once the studio is installed be sure that you include / add the workload ASP.NET and web development
+
+Visual Studio Templates - used to create a project prepopulated with helpful starter pattern (including blank solution and an empty project)
+
+Create a blank solution named OdeToFood in folder odetofoodmvc folder.
+
+Solutions contain 0 one or more projects. Projects contain code, folders, and other parts.
+When creating a project from scratch you'll need to specify a project name, location, and Framework. Once those choices are made you can choose a template to further focus you project type.
+
+One way to compartmentalize code is to sepparate or "abstract" code by putting code with a common purpose into a distinct project. Sepparate folders can be used to further sub-divide portions of code such as within the .Data project creating folders for the data model (means of database access) and the 
+
+Section 2
