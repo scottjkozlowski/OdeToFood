@@ -179,3 +179,13 @@ C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFoo
 C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\Autofac.pdb
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Admin\Source\Repos\OdeToFood\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
